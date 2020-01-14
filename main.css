@@ -150,11 +150,11 @@ body {
 /* Pikachu */
 
 .flex--pikachu .flex__item--left {
-  background: #ffb457;
+  background: #6887ca;
 }
 
 .flex--pikachu .flex__item--right {
-  background: #ffdbad;
+  background: #add7ff;
 }
 
 /* Blaziken */
@@ -197,8 +197,8 @@ body {
 
 .pokemon__img {
   position: absolute;
-  bottom: 10px;
-  right: 6%;
+  bottom: 32px;
+  right: 14%;
   max-height: 45vw;
   opacity: 1;
   transform: translate3d(0, 0, 0);
