@@ -209,7 +209,7 @@ body {
   width: 55%;
   opacity: 1;
   transform: translate3d(0, 0, 0);
-  transition: transform 0.3s linear 0.3s, opacity 0.1s linear 0.3s;
+  transition: transform 0.2s linear 0.2s, opacity 0.1s linear 0.2s;
 }
 
 .character__img {
@@ -220,7 +220,7 @@ body {
   opacity: 1;
   transform: translate3d(0, 0, 0);
   transition: opacity 0.43s 0.6s,
-    transform 0.65s cubic-bezier(0, 0.88, 0.3, 0.93);
+    transform 0.65s cubic-bezier(0, 0.88, 0.2, 0.93);
 }
 
 .character__img2 {
