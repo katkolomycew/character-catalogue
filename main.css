@@ -1,8 +1,8 @@
 *,
 *:before,
 *:after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -150,11 +150,11 @@ body {
 /* Pikachu */
 
 .flex--pikachu .flex__item--left {
-  background: #f8d41f;
+  background: #ffb457;
 }
 
 .flex--pikachu .flex__item--right {
-  background: #f4ecc5;
+  background: #ffdbad;
 }
 
 /* Blaziken */
@@ -197,9 +197,9 @@ body {
 
 .pokemon__img {
   position: absolute;
-  bottom: 20px;
-  right: 15%;
-  max-height: 40vw;
+  bottom: 10px;
+  right: 6%;
+  max-height: 45vw;
   opacity: 1;
   transform: translate3d(0, 0, 0);
   transition: opacity 0.43s 0.6s,
