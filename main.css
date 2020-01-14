@@ -147,13 +147,13 @@ body {
   background: #d3eaef;
 }
 
-/* Pikachu */
+/* Stitch */
 
-.flex--pikachu .flex__item--left {
+.flex--stitch .flex__item--left {
   background: #6887ca;
 }
 
-.flex--pikachu .flex__item--right {
+.flex--stitch .flex__item--right {
   background: #add7ff;
 }
 
@@ -195,7 +195,7 @@ body {
   transition: transform 0.2s linear 0.2s, opacity 0.1s linear 0.2s;
 }
 
-.pokemon__img {
+.character__img {
   position: absolute;
   bottom: 32px;
   right: 14%;
